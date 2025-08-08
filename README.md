@@ -1,4 +1,6 @@
-
+<div style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
+🚀 <b>مرحبا بك في مشروعي</b>
+</div>
 # Robot Grid Simulator
 
 ## Project Title and Purpose
