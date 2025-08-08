@@ -1,7 +1,6 @@
 <div style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
-🚀 <b>مرحبا بك في مشروعي</b>
+#🚀 Robot Grid Simulator
 </div>
-# Robot Grid Simulator
 
 ## Project Title and Purpose
 This project is a robot simulator written in Python using object-oriented programming principles. It simulates the robot's movement on a grid starting from size (5,5) and its area is expandable according to the user's desire. Additional features were incorporated to control the battery and to reduce the error rate, the user was able to select the movement through a drop-down list. It was implemented with a simple interactive interface implemented using Streamlet.
