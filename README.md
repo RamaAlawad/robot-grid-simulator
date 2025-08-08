@@ -1,7 +1,11 @@
 <div style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
 #🚀 Robot Grid Simulator
 </div>
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://python.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)]()
 
+> A Python-based robot simulator for 5x5 grid navigation - Foundation for ROS2 integration
 ## Project Title and Purpose
 This project is a robot simulator written in Python using object-oriented programming principles. It simulates the robot's movement on a grid starting from size (5,5) and its area is expandable according to the user's desire. Additional features were incorporated to control the battery and to reduce the error rate, the user was able to select the movement through a drop-down list. It was implemented with a simple interactive interface implemented using Streamlet.
 
