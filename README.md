@@ -47,4 +47,11 @@ The RobotSimulator class handles the core logic, while streamlit_app.py provides
 3. draw_grid(): Renders the grid with the robot and obstacles, adjusting for the grid's dynamic size.**
 
 4. Visual indicators for battery level and robot direction.
+   
+html
+نسخ
+تحرير
+<p align="center">
+  <img src="رابط_الصورة" width="200"/>
+</p>
 
